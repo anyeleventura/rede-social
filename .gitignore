@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Arquivos de lock
+package-lock.json
+
+# Diretórios e arquivos temporários
+npm-debug.log
+
+# Arquivos de ambiente (se aplicável)
+.envnode_modules

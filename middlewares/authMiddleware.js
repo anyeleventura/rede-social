@@ -1,0 +1,1 @@
+// Aqui você pode adicionar qualquer middleware de autenticação que quiser, por exemplo, para verificar se o usuário está logado.
